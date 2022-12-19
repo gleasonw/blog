@@ -1,21 +1,13 @@
 ---
-import Navigation from "../components/Navigation.astro";
+import PostNavigator from "../components/PostNavigator.astro";
+import TextBody from "../components/TextBody.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
+const allPosts = await Astro.glob('../pages/posts/poitiers/*.md');
 ---
 
 <BaseLayout pageTitle={"Will Goes to Poiters"}>
-  <ul>
-    <li>
-      <a href="/posts/poitiers/post-1"
-        >On Iceland, trains, lightsabers, Poitiers, and other things</a
-      >
-    </li>
-    <li><a href="/posts/poitiers/post-2">The second post</a></li>
-    <li><a href="/posts/poitiers/post-3">The third post</a></li>
-    <li><a href="/posts/poitiers/post-4">The fourth post</a></li>
-    <li><a href="/posts/poitiers/post-5">The fifth post</a></li>
-    <li><a href="/posts/poitiers/post-6">The sixth post</a></li>
-    <li><a href="/posts/poitiers/post-7">The seventh post</a></li>
-    <li><a href="/posts/poitiers/post-8">The eighth post</a></li>
-  </ul>
+  <TextBody>
+    A few reports from Poitiers, France.
+    <PostNavigator posts={allPosts} />
+  </TextBody>
 </BaseLayout>

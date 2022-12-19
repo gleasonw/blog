@@ -7,7 +7,8 @@ const allPosts = await Astro.glob("../pages/posts/bressuire/*.md");
 
 <BaseLayout pageTitle={"Will's writs from Bressuire"}>
   <TextBody>
-    Herein lie a few posts from my time helping the French learn English in Bressuire, France. 
-    <PostNavigator posts={allPosts}/>
+    Herein lie a few posts from my time helping the French learn English in
+    Bressuire, France.
+    <PostNavigator posts={allPosts} />
   </TextBody>
 </BaseLayout>

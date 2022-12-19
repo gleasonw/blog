@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: My Second Blog Post
+title: A Second Post, a Third Batch of Yogurt 
 author: Astro Learner
 description: "After learning some Astro, I couldn't stop!"
 image: 
