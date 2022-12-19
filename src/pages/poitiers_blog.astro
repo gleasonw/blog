@@ -1,12 +1,15 @@
 ---
 import Navigation from "../components/Navigation.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<Navigation />
-<main>
-  <div>Poitiers</div>
+<BaseLayout pageTitle={"Will Goes to Poiters"}>
   <ul>
-    <li><a href="/posts/poitiers/post-1">On Iceland, trains, lightsabers, Poitiers, and other things</a> </li>
+    <li>
+      <a href="/posts/poitiers/post-1"
+        >On Iceland, trains, lightsabers, Poitiers, and other things</a
+      >
+    </li>
     <li><a href="/posts/poitiers/post-2">The second post</a></li>
     <li><a href="/posts/poitiers/post-3">The third post</a></li>
     <li><a href="/posts/poitiers/post-4">The fourth post</a></li>
@@ -15,4 +18,4 @@ import Navigation from "../components/Navigation.astro";
     <li><a href="/posts/poitiers/post-7">The seventh post</a></li>
     <li><a href="/posts/poitiers/post-8">The eighth post</a></li>
   </ul>
-</main>
+</BaseLayout>

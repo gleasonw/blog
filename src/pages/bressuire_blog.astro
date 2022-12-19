@@ -1,13 +1,13 @@
 ---
-import Navigation from "../components/Navigation.astro";
+import PostNavigator from "../components/PostNavigator.astro";
+import TextBody from "../components/TextBody.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+const allPosts = await Astro.glob("../pages/posts/bressuire/*.md");
 ---
-<Navigation />
-<main>
-  <div>bressuire</div>
-  <uL>
-    <li><a href="/posts/bressuire/post-1/">Post 1</a></li>
-    <li><a href="/posts/bressuire/post-2/">Post 2</a></li>
-    <li><a href="/posts/bressuire/post-3/">Post 3</a></li>
-    <li><a href="/posts/bressuire/post-4/">Post 4</a></li>
-  </uL>
-</main>
+
+<BaseLayout pageTitle={"Will's writs from Bressuire"}>
+  <TextBody>
+    Herein lie a few posts from my time helping the French learn English in Bressuire, France. 
+    <PostNavigator posts={allPosts}/>
+  </TextBody>
+</BaseLayout>
