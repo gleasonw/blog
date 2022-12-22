@@ -1,13 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: On sleepy writing, historian-beach-folk, beach-mobiles, and the French verbal toolbox.
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+pubDate: 2019-10-27
 image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
-tags: ["astro", "blogging", "learning in public"]
+    url: '/poitiers_tour_view.jpg' 
+    alt: 'View from a tower in la Rochelle'
 ---
 
 On this fine Saturday morning, whippping through the French countryside in a steel box, I admit I am a little sleepy. This may result in adverse affects on the quality and quantity of this blog. Nevertheless, the dire importance of the facts I have to share requires me to push onwards; for indeed, although this blog has become increasingly cheesy the past few weeks, I am not prepared to throw down my arms just yet. And so, my coup de resistance, my defiant thrust in the face of cheesey menace, here is my sleepy blog entry #5*.

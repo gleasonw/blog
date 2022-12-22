@@ -9,7 +9,6 @@ image:
     alt: 'The Astro logo with the word One.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-  
 
  Greetings, all, from this delightful new web-space I have found. I am still working on the decor -- I draw inspiration from old-school, practical, static websites, and spearmint. Let there be green borders and html tables. I think it beats WebPress; I think this delicious bowl of home-made yogurt I'm eating beats Yoplait. In both cases, doing it yourself is much easier than it appears. Already, a bit of wisdom for you, and we haven't even really begun. Best of all, Papa Bezos is letting me have the site for free (for now). He is... like a man that gives home-made yogurt to the ignorant masses. May his starcraft be swift and his cruise ships gargantuan.1
  <br>

@@ -1,13 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: "The Ultimate Wlog"
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+pubDate: 2020-01-08
 image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
-tags: ["astro", "blogging", "learning in public"]
+    url: '/poitiers_river.jpg' 
+    alt: 'A flooded stream in Poitiers'
 ---
 
 Good things come to an end. Here I sit in the Minneapolis airport, finished with it all and not entirely sure what it all meant, or means. Discovering the profound wisdoms unearthed over the course of four months in France will be a lengthy process; I don’t expect to get to the end of it. At the very least, I know that fruit kefir does not take well to milk, chocolate mousse is surprisingly easy to make and the air whooshes on your face when a Paris metro car is accelerating. Be sure to keep asking for updates, I expect information to keep rolling in over the course of the next few months. Do be warned, however; when asked about France I tend to hem and haw and appear very indecisive, which I am. How do you condense four months down into 30 seconds? I would very much like to tell you about the music on the Poitiers bus (varied), the peculiarities of the French computer science world or the smoky fellow from the cafeteria who filled me in on US foreign policy in Cyprus. But at any given moment I can only remember a handful of these stories, and the Wlog is equally susceptible to my fickle memory. So please, ask me about France, frequently; or at least be in range when a random detail runs into my brain, finds a related memory and drags it out into the open.  

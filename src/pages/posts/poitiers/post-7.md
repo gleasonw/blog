@@ -1,13 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: "The Penultimate Wlog: on French historical methods, NASA, orienteering, Christmas decorations, and a few other things"
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+pubDate: 2019-12-13
 image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
-tags: ["astro", "blogging", "learning in public"]
+    url: '/correze_castle.jpg' 
+    alt: 'A castle in Correze'
 ---
 
 Long have I traveled and far have I searched for the best facts, peculiraties and mysteries to present to my loyal fan base. My investigative travails, methodical, have prevented me from publishing a Wlog in the past, uh, three weeks (or so). Nevertheless I believe the result is a more fulfilling Wlog for everyone. I present Wlog #42. Oh, and I have decided that, for ease of pronunciation, the “W” in Wlog should be pronounced as a German would say the “W” in “Wasser”; that is, as a rough english V. I cannot make a direct change from W to V, for, as every body knows, a “Vlog” has nothing to do with the literary heights acheived in this Wlog. Indeed, to further differentiate a Wlog from its audio-visual cousin, Wlog should be pronounced, in its entirety, with a German accent [1]. Jawol!

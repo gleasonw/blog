@@ -1,27 +1,31 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: On walls, doors, golden professors, and some other things
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+pubDate: 2019-10-05
 image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
-tags: ["astro", "blogging", "learning in public"]
+    url: '/sarlat_door.jpg' 
+    alt: 'A large door in Sarlat'
 ---
 
 Good evening. Tonight I will inform you of a great deal of new and exciting discoveries, adventures and gaffs that have taken place over the past week since I last writ. That is the point of a blog, you know.
-
+<br>
+<br>
 First and foremost among these, not chronologically but in terms of importance, would a trail I have taken to calling the Northwest Passage, such is the significance of its discovery. Let me set the stage: imagine a lone runner, 30 days in the past. He has no idea where he is going and his hair flops around a lot. After running for miles, endless miles, he finds a bridge. Clomp clomp clang clang. Across to the other side of the river. Nasty, brutal hill that leads to a Roman Aqueduct. Wild! Then a few more miles. Then a park! Very pretty, very nice. A long loop spent in the company of tweedling birds, symmetric trees and the vague mewling of an accordion. Ah, ze parc francais. Some stairs. A few miles. Another bridge and the triumphant return home. What a day for our runner! And yet! This poor chap, the ignorant oaf, had no idea that there was a bridge just under this park! Tucked away in a driveway, a path that winds down a long set of infernal stairs before becoming… a railroad bridge with a very safe pedestrian walkway on the side! Incredible. A bridge that makes a seven-mile journey into a three-mile one!
-
+<br>
+<br>
 This earth-shattering discovery was rapidly followed by another, smaller discovery of a trail that I believed to be non-existant; a trail that linked worlds I thought would never collide. Truly, my charting of Poitiers is nearing completion.
-
+<br>
+<br>
 Aside from landmark discoveries in trail running, this past weekend I rolled through the region of Dordogne, a bit further south from Poitiers. We spent a great deal of time in Sarlat, a small yet heavily trafficked town famed for having a high concentration of old buildings as well as stone roofs (lauze). The town is beautiful, the entire city center is a monument. 17th-century mansions mingle with 12th-century cathedrals. The line between road and alley is blurry, and at times the place feels like a big, beautiful stone maze. Mention must also be given to what must be one of the largest doors on this planet, if not the known galaxy. A very well known architect by the name of Jean Nouvel designed it. Frankly, it’s a big ol’ steely gray door slapped on the side of an old church. Nevertheless, I am sure that when elephants reveal their super intelligence and come to claim their place amidst human society, they will appreciate the gesture. Blue whales should be pretty stoked too. Heck, if they ever find Godzilla he’ll love the extra headroom. It is, indeed, that class of door.
-
+<br>
+<br>
 The doors of Sarlat are matched only by their pizza, which is excellent. Their foie gras, so I hear, is excellent as well, though my inner jury continues to deliberate. For breakfast, I ate what was likely the best pastry of my life. I doubt that this was the atmosphere of Sarlat, and most likely indicative of the French attitude towards pastry. No messing around! It was a flat croissant with chocolate in the middle, as I will choose to translate. It was warm and crinkly and pulled apart with buttery satisfaction. A most delectable delight! Such a culinary high can only be followed by a historical high. Yes, we went to see some of the oldest human stuff in the world, the cave paintings at Lascaux. There is a charming story about their discovery, that I paraphrase: 1940’s, woods, explorin’, dog, hole, “whoah dude, a red cow!” The museum/exhibition that has sprung up around the site is incredible. The paintings are incredible. A whole lot chills. I can’t help but think of stories whenever I look at those paintings. So many stories have to be contained in those puffs of metal oxides and carved lines. The level of mystery and intrigue is mind-boggling. Why, for instance, is the only representation of humans a dude with a bird head? Why is it in the most inaccessible part of the cave? Why is he being charged by a gored bison? Stories, legends or rituals from thousands of years ago whose plot, purpose or renown we will never know. Incredible! It makes me want to dive into some Dungeons and Dragons. Or study history.
-
+<br>
+<br>
 Ahem. I will take this momentary pause to discuss the preponderance of walls in Poitiers. I don’t know if it is a vestige of medieval thinking, or if people fear the renewed hostilities with the English, but every house in Poitiers is surrounded by a wall of some sort. Be it stone, stone with a fence, stone with a shrub, it’s always a stone wall. Which makes me think: the stereotypical American Dream is owning a house with a white picket fence. Is the French Dream owning a house with a massive stone wall? The evidence points in that direction. As a short digression, the density of fortifications has me constantly considering where I would go in the coming zombie apocalypse. For most French homes, all they need to do to survive the onslaught is close the gate. However, the true survivalist would doubtless head to the local castle. Most have some old medieval weaponry in there. For those wishing to engage deeper in the subject of surviving zombie apocalypses in a castle, I would highly recommend Max Brook’s World War Z. Much better than the movie!
-
+<br>
+<br>
 Lastly. I have spoken very little of my classes, and this is because there is very little to speak of. However, there is one thing of note. Classes in France are long. Very long. Smoke-break-in-the-middle long. They are also late. One of my classes begins at 4:30 and ends at 7:00. Although truly a bummer, the lateness of the class does have a major upside. An upside I have never before experienced. Every class period, around 6:30 but increasingly earlier, the professor, previously solemn and plain, begins to glow as if from the wondrousness of his subject’s historical import. What was once a French professor becomes a golden French professor, bathed in the pink and golden light of the fading sun. It is singular and majestic.
-
+<br>
+<br>
 Bonus pictures!

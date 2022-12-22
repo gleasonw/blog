@@ -1,13 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'And so... I write again!'
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+pubDate: 2019-09-06
 image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
-tags: ["astro", "blogging", "learning in public"]
+    url: '/public/poitiers_gate.jpg' 
+    alt: 'A low door in a stone wall in Poitiers'
 ---
 Well, friends, I haven’t actually made this blog public. The prospect is daunting. So perhaps I shall speak to the void a little while. It is quite pleasant, if a bit… unnerving. Nothing but myself and the bytes. Nevertheless, in the special, rare and extraordinary case that I have chosen to “tear down this wall” so to speak, welcome! The second installment of my adventures is as follows.
 
