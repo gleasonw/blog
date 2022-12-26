@@ -13,13 +13,13 @@ Nigh three weeks ago, I went on an orienteering expedition into the French wilde
 
 I have also, through orienteering, learned a good bit of French vocabulary. Beyond the basics (“point d’attaque” = point of attaque, “coupe!” = cut), a few notables:
 
-    Galérer – to struggle or have a hard time
-    Borne – marker, boundary stone
-    Ronce – stickerbush, bramble
-    Ligne de vege – Veggy line. Or, vegetation line.
-    Ruisseau – Stream
-    Le catastrophe – A disaster, but used “it was THE disaster”, not just any disaster.
-    “Ça a été?” – Was everything ok | | You made it out alright?
+- Galérer – to struggle or have a hard time
+- Borne – marker, boundary stone
+- Ronce – stickerbush, bramble
+- Ligne de vege – Veggy line. Or, vegetation line.
+- Ruisseau – Stream
+- Le catastrophe – A disaster, but used “it was THE disaster”, not just any disaster.
+- “Ça a été?” – Was everything ok | | You made it out alright?
 
 Having survived my expedition and thoroughly discussed the healthcare system of the United States and France with a couple medical students I was rooming with, the adventure continued. And this time, instead of being lost in the rural French wilderness, I was lost in a very dense text from a 18th century German diplomat to the court of Versailles. Indeed, on the Wednesday of the 4th of December, Will Gleason went 2 rounds with the French system of testing. No fault is to be given to the esteemed Ezechiel Spanheim, who gave a fascinating outsider’s perspective on the absolutist reign of Louis XIV. I will deal out some fault, however, to the French historical system. I give warning: the following rant is born of cultural difference, and the two systems, American and French, likely have a good bit to learn from one another. I present the French system: under the French system of teaching history, it is only by gaining an encyclopedic knowledge of a given historical period that a historian can begin to make original arguments. Dates to the month and day; wars, certainly, as well as the treaties that ended them; books that influenced the period and the authors that wrote them; and so on. The accumulation of facts begins and sustains the French pedagolocial process. Analysis is a distant goal held by the professor, rather than an immediate tool for a student to understand the period. The end result is, I imagine, a very knowledgeable student. A student that would know perfectly well the date at which Louix XIV welcomed the Ambassador of Siam to Versailles (1686), as well as the name of the treaty putting an end to the War of Devolution (the treaty of Aix-la-Chapelle). A student that, I’ll admit, does not correlate entirely to the bloodied and battered figure of Will Gleason, going two rounds with the French system of testing. However! I offer my rebuttal: those two facts, which I’ll admit I don’t know off the top of my head, are readily accesible with a few keystrokes. What is more important is what the War of Devolution and the visit of the ambassador of Siam to Versailles meant for the reign of Louis XIV and Europe in general. That, I believe, is far more useful, both as a life skill and as a gift to the historical community. And yet, when the world ends, the internet switch is flipped and an alien comes to me and asks: “When did the Cardinal Mazarin, steward of the French throne, pass from this earth?” I will stutter, mutter and be summarily plasted into a million bits of ignorance. “The ninth of March, 1661, swine!”, they will say over my smoldering remains.
 

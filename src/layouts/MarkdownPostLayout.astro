@@ -1,6 +1,5 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
-import TextBody from "../components/TextBody.astro";
 const { frontmatter } = Astro.props;
 ---
 
@@ -15,7 +14,7 @@ const { frontmatter } = Astro.props;
       alt={frontmatter.image.alt}
     />
   </div>
-  <article class="text-justify m-auto prose prose-sm sm:prose lg:prose-lg xl:prose-2xl">
+  <article class="text-justify m-auto prose prose-lg p-2 lg:prose-lg xl:prose-2xl">
     <slot />
   </article>
 </BaseLayout>
