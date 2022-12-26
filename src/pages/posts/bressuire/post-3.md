@@ -6,7 +6,7 @@ description: "I had some challenges, but asking in the community really helped!"
 image: 
     url: "/bressuire_fog.jpg"
     alt: "A foggy scene from Bressuire, France"
-pubDate: 2022-07-15
+pubDate: 2021-11-21
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
  The blog continues, haltingly, since not that much has happened these past two weeks. I have eaten well, further ingrained myself in Bressuire, taught English, made some pita bread (easy and delicious), and tossed a funky batch of yogurt (tasted like socks and, on further inspection, had some beautiful pink dots on the lid). Truly, the most exciting update I have for you all is my recent cultural discovery that alongside taking out the trash, doing their homework, and washing dishes, French children are often tasked with getting bread from the bakery. You likely know that bread is a staple of the French diet.1 My roommates and I mostly get our bread from the local supermarket because it's cheaper and more efficient. Whenever we share our unconventional bread-buying habits with French people, however, they always sigh, shake their heads, and tell us to either get our act together or go have some children.
