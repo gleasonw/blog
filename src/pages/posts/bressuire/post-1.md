@@ -1,12 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'The First Dispatch'
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+pubDate: 2021-10-26
 image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
+    url: '/bressuire_country.png' 
+    alt: 'A trail in the Bressuire countryside.'
 tags: ["astro", "blogging", "learning in public"]
 ---
 

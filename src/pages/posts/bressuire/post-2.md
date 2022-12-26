@@ -4,9 +4,9 @@ title: A Second Post, a Third Batch of Yogurt
 author: Astro Learner
 description: "After learning some Astro, I couldn't stop!"
 image: 
-    url: "https://astro.build/assets/blog/astro-showcase/astro-showcase-screenshot.jpg"
-    alt: "Thumbnails of websites from the Astro Showcase site."
-pubDate: 2022-07-08
+    url: "/bressuire_craig.png"
+    alt: "A nonsensical picture of Daniel Craig, whose face is cut out and replaced with a blog screen capture, drinking in a scene from Skyfall."
+pubDate: 2021-11-07
 tags: ["astro", "blogging", "learning in public","successes"]
 ---
 

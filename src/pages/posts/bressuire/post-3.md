@@ -4,8 +4,8 @@ title: A Mild, Uneventful Update on a Foggy November Afternoon
 author: Astro Learner
 description: "I had some challenges, but asking in the community really helped!"
 image: 
-    url: "https://astro.build/assets/blog/community-day/cover.jpg"
-    alt: "The word community with a heart."
+    url: "/bressuire_fog.jpg"
+    alt: "A foggy scene from Bressuire, France"
 pubDate: 2022-07-15
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---

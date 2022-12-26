@@ -4,24 +4,33 @@ title: Resurfacing
 author: Astro Learner
 description: "I had some challenges, but asking in the community really helped!"
 image: 
-    url: "https://astro.build/assets/blog/community-day/cover.jpg"
+    url: "/bressuire_windy_road.jpg"
     alt: "The word community with a heart."
 pubDate: 2022-07-15
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
 
  Oh my, oh my, oh my! I have let the grass grow long, the beard, longer still. I remain alive, and well, and full of anecdotes and thoughts of my time here in France. My inability to manage multiple time pressures also remains. Lo, the past few months have brought many new time pressures. A running club, three Dungeons and Dragons groups (goodness), an unexpected eagerness for cooking, and walking to a distant bulk organic store to buy cheap oatmeal.1 Now that I have thrown my excuses at your feet, they aren't that impressive, maybe, and you have every reason to be displeased at my tardiness. Why don't you find another TAPIF blog, huh?2
-
+ <br>
+ <br>
 We are off to a combative start; much like a sealed batch of surprisingly yeasty yogurt left too long in the fridge, a small explosion has accompanied the opening. A novel sentence that only a yogurt homebrewer can write. Yes, these past three months have been filled with experimentation, lessons, and oddities; I have been fermenting, gloriously. The joy of making yogurt, or sourdough, saurkraut, kimchi, sriracha, is in stepping away from a process and letting the world do the rest. From my apartment perch in Bressuire, I don't work that much. 12 hours a week at most. It is a marvelous, privileged, fruitful gift of free time after packed schedules in high school and college. I have run more than ever (probably a bit too much, more to follow), begun learning to cook, acquired a taste in podcasts, perfected a banana bread recipe, developed my chess skills, learned to mop a floor, do dishes by hand efficiently (soap/scrub everything, then wash everything -- if there is a better method, let me know), and clean a toilet effectively. I never said fermentation is an appealing process. It is funky and deeply practical. The humble resulting product, however, has a depth that only time, rest, and a lively, teeming world can give. It is also mildly alcoholic, and that's where my fermentation theory of the good life meets its limit.
+ <br>
+ <br>
 A jar of sauerkraut.
+ <br>
+ <br>
 A peacefully fermenting jar of sauerkraut, early in my career. The jar began to hiss a few days after I mashed the veggies together, a glamorous though unsettling display of life. I burped it with pride. Inside lies cabbage, naturally, as well as carrot and jalepeno. I gave myself a pepper burn while mashing the veggies into a brine. The eventual product was tasty, though I should have let it go longer. Not sauer enough! I have another batch going, and I will of course fill you in later on.
-
+ <br>
+ <br>
 Lactic acid fermentation in my food, lactic acid fermentation in my muscles: a few months ago I joined Bressuire's running club. It turns out that Bressuire is wildly competitive on the national scene, and has an Olympian to its name . I am beginning at a more humble stage, running in glorious ovals under the watchful eye of my wise coach, Jacques. It is extremely surreal and a wonderful source of community. I might be enjoying it a bit too much, as I've been working through that age-old runner's bane, shin splints, or in French, "periostites tibiales". Chillingly, my brain often flips "periostites" to "parasites" and conjures up images of shin Xenomorphs. Fortunately, stretching and a Nalgene-turned-muscle-roller are effective against my periostites, where they would be ineffective against Xenomorphs. Partly catalyzed by my leg soreness, I have begun a journey towards flexibility. So begins the season of Yoga with Adriene, alongside regular static stretching, a consistency-based approach that I believe is the consensus on increasing range of motion. Very exciting!
-
+ <br>
+ <br>
 As far as work goes, teaching has continued to be a process of discovery, trial, and error. I have settled on a philosophy of "communication above all", which tends to involve more camaraderie and chumminess than any professional teacher could get away with. This occasionally creates awkward situations, particularly when, in one case, students actively clamored to be with me than with their usual teacher. Their preferences were understandable: with me, there are no tests or grammar lessons, in short, there is no course. I jump about the room, gesture at pictures, and interrogate them in English. I do my best to ride the wave of their energy and wrangle it into English conversation. It's exhausting, but there is little stress for both myself and the students, little pressure to perform. I lead class in a casual manner because nobody demands I conform to a more rigid French teaching style. I also don't know what I'm doing, and I wager enthusiasm is the best cure for ignorance. It feels icky to me that the students reward my minimally-informed, happy-go-lucky method over their teacher's labor intensive travails. Perhaps, though, their preferences indict a French system that demands conformity and, hideously, the memorization of grammar rules. How very American of me. I need to think about it more. These are all idle thoughts, and I expect direct responsibility over a boisterous and irreverent class of adolescents would temper my idealism. I am but a fly on the wall, an observer without much more responsibility than to speak my native tongue.
-
+ <br>
+ <br>
 Nevertheless, it is a great joy and privilege to be an observer. The root of my energetic, dorky style of teaching lies in my daily astonishment at standing in front of a group of human beings whose culture, life experiences, and world view differ drastically from my own. Faced with the hugeness of the world, my instinctive reaction is to exchange, to seek out interaction and conversation as best I can. This is easiest with high school students, who have a much better command of English. Even when their English is workable, however, it usually takes some effort to begin a lively exchange. There is often an immense contrast between my bubbly energy for conversation and the timid high schooler across from me. Why is it that teenagers, whether in France or the United States, look down on visible displays of curiosity and excitement? When does society devalue and squash the "what is that" spark of childhood?4 Between myself and a French teenager lies a chasm of experience to explore, and I am always the first to take the leap, hooting and hollering as I fall. Sometimes they laugh and jump in with me, sometimes they just laugh, sometimes they have no idea what I'm saying, and shrug. Ultimately, if I have discovered anything about pedagogy over the last few months, it is the importance of expressing and cultivating enthusiasm. Enthusiasm swiftly leads to curiosity; in my experience, curiosity is the heart of learning.
-
+ <br>
+ <br>
 So that's teaching. I have little else to tell you, so I will show you:
 Rows of chocolates in a French grocery store before Christmas.
 I took this photo a few days before Christmas. The transformation of a French grocery store into a festive French grocery store involves massive quantities of chocolates3, exotic meats such as turkey, buffalo, or crocodile, foie gras, meringues, champagne, and other expensive, delicious, and morally dubious things. The holidays are a time of decadence in France. Where the French holiday diet is a cathedral, resplendent and impressive, the American holiday diet is the wooden church, comfortable and understated.
