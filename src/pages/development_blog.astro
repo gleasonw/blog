@@ -1,7 +1,13 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import PostNavigator from "../components/PostNavigator.astro";
+import TextBody from "../components/TextBody.astro";
+const allPosts = await Astro.glob("../pages/posts/engineering/*.md");
 ---
 
-<BaseLayout>
-    Hello
+<BaseLayout pageTitle={"News from the Workshop"}>
+    <TextBody>
+        A few reports as I stumble my way across a vast technical landscape.
+        <PostNavigator posts={allPosts} />
+    </TextBody>
 </BaseLayout>
