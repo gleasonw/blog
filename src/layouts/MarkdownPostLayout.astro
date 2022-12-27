@@ -5,16 +5,23 @@ const { frontmatter } = Astro.props;
 
 <BaseLayout pageTitle={frontmatter.title}>
   <div
-    class="flex flex-col justify-center align-center text-center p-5 text-xl "
+    class="flex flex-col justify-center align-center text-center p-5 text-xl"
   >
     <p>{frontmatter.pubDate.slice(0, 10)}</p>
-    <img
-      class="object-center m-auto"
-      src={frontmatter.image.url}
-      alt={frontmatter.image.alt}
-    />
+    {
+      frontmatter.image.url && (
+        <div class='p-10'></div>
+        <img
+          class="object-center m-auto"
+          src={frontmatter.image.url}
+          alt={frontmatter.image.alt}
+        />
+      )
+    }
   </div>
-  <article class="text-justify m-auto prose prose-lg p-2 lg:prose-lg xl:prose-2xl">
+  <article
+    class="text-justify m-auto prose prose-lg p-2 lg:prose-lg xl:prose-2xl"
+  >
     <slot />
   </article>
 </BaseLayout>
