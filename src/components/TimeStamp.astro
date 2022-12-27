@@ -5,14 +5,14 @@ interface Props {
     commit: string;
     url: string;
 }
-const { date, title, commit } = Astro.props;
+const { date, title, commit, url } = Astro.props;
 ---
 
-<div class="border m-10 p-10">
+<div class="m-10 p-10">
     <p class="m-0">{date}</p>
     <h2 class="m-0">{title}</h2>
     <a
-        href="https://github.com/gleasonw/gallica-grapher/commit/360b762a9989d826e76ae17214be1aef6bac44e6"
+        href={url}
         target='_blank'
         >"{commit}"</a
     >
