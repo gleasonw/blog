@@ -1,10 +1,12 @@
 ---
 import Social from "./Social.astro";
+import github from '/github.svg';
+import linkedin from '/linkedin.svg';
 ---
 
 <footer>
   <div class="flex justify-center align-center gap-20 mt-20 mb-20">
-    <Social platform="github" username="gleasonw" />
-    <Social platform='linkedin' username='in/will-gleason' />
+    <Social platform="github" username="gleasonw" svg={github}/>
+    <Social platform='linkedin' username='in/will-gleason' svg={linkedin} />
   </div>
 </footer>
