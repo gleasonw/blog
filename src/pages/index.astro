@@ -26,9 +26,40 @@ import TimeStamp from "../components/TimeStamp.astro";
         <br />
         One developer, whom I appreciate, lists only their favorite apple cider recipe
         on their website. Because I need a job, I will not do that. One day, perhaps.
-        Instead,
         <br />
         <br />
+        Here is the story of my technical adventures so far, told with the help of
+        commit messages.
+        <br />
+        <br />
+        <TimeStamp
+            date="Jul 8, 2020"
+            title="The Wonder of a Public API"
+            commit="here goes!"
+            url="https://github.com/gleasonw/gallica-grapher/commit/02ddfc7886a53512bdb39dd03010e6fa92fcc3ec"
+        >
+            <p>
+                The summer of 2020, I sought to understand the coverage of
+                French explorer Pierre Savorgnan de Brazza as he colonized the
+                Congo River Basin for France. This involved reading many
+                periodicals on the French Archive's website, Gallica.
+            </p>
+            <p>
+                The French national library staff have publicized their API,
+                without any limitations, outside of courtesy. I began to
+                experiment with Python, writing some clunky classes to pull XML
+                from the archive, and graphing the data with some even clunkier R code.
+            </p>
+        </TimeStamp>
+        <TimeStamp
+            date="Dec 2, 2020"
+            title="My very own API"
+            commit="database"
+            url='https://github.com/gleasonw/gallica-grapher/commit/df0c2029cad7fb67bbad7d8d60ad68a27d16eb79'
+            >
+        Multihreading = faster, but too many CSVs, Postgres.
+        </TimeStamp>
+    </TimeStamp>
         I suspect there won't be many more times in my life when a group of experts
         will expect both high quality French prose and max-flow min-cut algorithms.
         Carleton was wonderful. My senior thesis on the 19th century French press,
