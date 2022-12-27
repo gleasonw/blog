@@ -2,6 +2,9 @@
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: On r's, cows, curls, and other things
 pubDate: 2019-11-16
+image:
+    url:
+    alt:
 ---
 
 
