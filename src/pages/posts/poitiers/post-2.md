@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'And so... I write again!'
 pubDate: 2019-09-06
 image:
-    url: '/public/poitiers_gate.jpg' 
+    url: '/poitiers_gate.jpg' 
     alt: 'A low door in a stone wall in Poitiers'
 ---
 Well, friends, I haven’t actually made this blog public. The prospect is daunting. So perhaps I shall speak to the void a little while. It is quite pleasant, if a bit… unnerving. Nothing but myself and the bytes. Nevertheless, in the special, rare and extraordinary case that I have chosen to “tear down this wall” so to speak, welcome! The second installment of my adventures is as follows.

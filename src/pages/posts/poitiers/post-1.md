@@ -4,7 +4,7 @@ title: 'And so, it begins.'
 pubDate: 2019-08-28
 description: 'This is the first post of my new Astro blog.'
 image:
-    url: '/public/poitiers_cityscape.jpg' 
+    url: '/poitiers_cityscape.jpg' 
     alt: 'The Poitiers cityscape'
 ---
 I must say, of all the airlines I have flown on, Icelandair appears the most patriotic. Perhaps because they are the one of the few airlines based in Iceland, perhaps because half the employees work part-time in the legislature, my trip to France had me hankering to spend some tourist dollars in Iceland. They name each plane after an Icelandic volcano. The coffee cups offer lessons in Icelandic. The back-of-the-seat tv’s require a two minute lesson on safety and a three minute lesson on how cool Iceland is. Suffice to say, coming into Keflavik I wanted to, I dunno, ride bareback through some volcanos. And yet circumnstance gave me naught but an exhilirating escalator ride to the second floor of the airport.
