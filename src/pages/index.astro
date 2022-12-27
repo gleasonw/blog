@@ -1,30 +1,32 @@
 ---
 import TextBody from "../components/TextBody.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeStamp from "../components/TimeStamp.astro";
 ---
 
 <BaseLayout pageTitle="Hello there!">
-    <TextBody>
-        I'm Will Gleason, a humanities major turned full-stack developer building a digital humanities
-        tool, <a target="_blank" class="underline text-blue-600 hover:text-blue-800 hover:cursor visited:text-purple-600" href="https://d32d5ops9ui5td.cloudfront.net/">the Gallica Grapher</a
+    <article
+        class="text-justify m-auto prose prose-lg p-2 lg:prose-lg xl:prose-2xl"
+    >
+        I'm Will, a French history major turned full-stack developer. I maintain
+        a digital humanities tool, <a
+            target="_blank"
+            href="https://d32d5ops9ui5td.cloudfront.net/">the Gallica Grapher</a
         >. I'm currently migrating the project from CRA to Next.js and
-        Typescript. 
+        Typescript.
         <br />
         <br />
         I like to write my APIs in Python or Go, my user interfaces in React and
         Typescript. I use Postgres to persist my data. I have tried GraphQL for API
-        data validation, but I think it's excessive for my current needs. Instead, I have
-        started experimenting with tRPC and Python's marvelous FastAPI. For static projects,
-        such as this website, Astro.js is my favorite tool.
+        data validation, but I think it's excessive for my needs. Instead, I have
+        started experimenting with tRPC and Python's marvelous FastAPI. Tailwind
+        is my css framework of choice. For static projects, such as this website,
+        Astro.js is my favorite tool.
         <br />
         <br />
-        A developer I appreciate lists only an apple cider recipe on their website.
-        Because I need a job, I will not do that. Here's what I've been doing since
-        graduating from Carleton College in 2021.
+        One developer, whom I appreciate, lists only an apple cider recipe on their
+        website. Because I need a job, I will not do that. One day, perhaps. 
         <br />
         <br />
-        <article>
-
-        </article>
-    </TextBody>
+    </article>
 </BaseLayout>
