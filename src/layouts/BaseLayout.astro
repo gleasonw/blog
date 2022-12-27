@@ -7,32 +7,13 @@ const { pageTitle } = Astro.props;
 
 <html lang="en">
   <script defer src="/_vercel/insights/script.js"></script>
-  <head>
-    <!-- Google tag (gtag.js) -->
-    <script
-      type="text/partytown"
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-5GR8EYZ40F"
-    ></script>
-    <script>
-      //@ts-ignore
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        //@ts-ignore
-        dataLayer.push(arguments);
-      }
-      //@ts-ignore
-      gtag("js", new Date());
-      //@ts-ignore
-      gtag("config", "G-5GR8EYZ40F");
-    </script>
 
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>{pageTitle}</title>
-  </head>
+  <meta charset="utf-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width" />
+  <meta name="generator" content={Astro.generator} />
+  <title>{pageTitle}</title>
+
   <body>
     <Navigation />
     <div class="flex flex-col mt-10">
