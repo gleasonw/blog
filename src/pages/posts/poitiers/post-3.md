@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: On classes, Wheelbarrows, Romans, Science, and that's about it
 pubDate: 2019-19-19
 image:
-    url: '/public/poitiers_running_exploration.jpg' 
+    url: '/poitiers_running_exploration.jpg' 
     alt: 'A path in Poitiers'
 ---
 
