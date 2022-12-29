@@ -12,7 +12,8 @@ import Footer from "../components/Footer.astro";
     I'm a French history major turned full-stack developer. I maintain the <a
       target="_blank"
       href="https://d32d5ops9ui5td.cloudfront.net/">Gallica Grapher</a
-    >, a tool that plots word occurrences in 19th-century French newspapers. I'm currently migrating the app from CRA to Next.js and Typescript.
+    >, a tool that plots word occurrences in 19th-century French newspapers. I'm
+    currently migrating the app from CRA to Next.js and Typescript.
     <br />
     <br />
     I like to write my APIs in <a
@@ -44,8 +45,8 @@ import Footer from "../components/Footer.astro";
     >
       <ul>
         <li>
-          My senior thesis, on 19th century French media, African colonization,
-          and a Senegalese man named Malamine Camara, won an <a
+          My senior thesis, on 19th-century French media, colonization in the
+          Congo, and a Senegalese man named Malamine Camara, won an <a
             target="_blank"
             href="https://www.carleton.edu/africana-studies/scholarships/williams-harris/"
             >award</a
@@ -136,13 +137,33 @@ import Footer from "../components/Footer.astro";
         </li>
         <li>
           JQuery being a consistent pain, I began reading the React docs, and
-          spun up a static app with CRA. Then I began adding state hooks. It was
-          a thrilling moment when I realized I could change state and the UI
-          would update for me. I began to experiment more freely, knowing that I
-          wouldn't have to spend an hour wrangling DOM selectors with every
-          significant change.
+          spun up a static app with CRA. It was a thrilling moment when I
+          realized I could change state and the UI would update for me. I began
+          to experiment more freely, knowing that I wouldn't have to spend an
+          hour wrangling DOM selectors with every significant change.
         </li>
       </ul>
     </TimeStamp>
+    <TimeStamp
+      date="June 2022"
+      title="Studying the Blade"
+      commit="tests on a plane"
+      url="https://github.com/gleasonw/gallica-grapher/commit/3b47ddf35483bc631790cb54cdfaa1639733c063"
+      >
+      <ul>
+        <li>
+          The app was working, in full interactive glory. Questions answered, left and right, never again would
+          humanity be unaware of how many times "vin" appeared in the 1894 editions of the 
+          Poitou medical journal. 12, at least once in every edition. 
+        </li>
+        <li>
+          Wanting to be professional, I decided to implement a testing suite, which I had been reading about.
+          I began testing zealously, thoroughly. Every function and class. It was a useful experience, but pointless,
+          as I now realize. My tests broke for silly reasons (typos, imports) whenever I changed something. Fragile tests!
+          I place my tests wisely now, at higher levels of abstraction.
+        </li>
+      </ul>
+    </TimeStamp>
+
   </article>
 </BaseLayout>
