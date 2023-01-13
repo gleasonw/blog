@@ -1,1 +1,2 @@
 history of web dods
+The travails of d3, refinding the trodden path, Recharts, the right level of abstraction.
