@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: UI Prototype, Better Abstractions, NeoVim
+title: UI Prototype, Better Abstractions, Neovim
 pubDate: 1/14/23
 image:
     url: /ui_prototype.png
@@ -17,4 +17,5 @@ React-Query made fetching a batch of tickets straightforward, and handles cachin
 Finally, I have been spending a lot of time on dev Twitch and dev Twitter. The NeoVim community is loud and exciting, and I decided to give it a try. I recently switched to Linux, PopOS distro, on my laptop, and set up NeoVim. I have enjoyed working with it so far. I use Vim motions in Pycharm and VS Code, but am no expert at Vim script and customization. We will see if Neovim, and the Lua customization it provides, will enhance the experience. At the very least, it is a lovely, passionate community. And community makes many things worth it!
 
 That is all for this week. Next week will be heavy on UI improvements. I would also like to configure my Next server-side rendering set up. I plan to have an initial example chart show on the home page, and that data can be cached server-side. I think getStaticProps will do the trick. Eventually, I would like to migrate the Python backend of the Gallica Grapher to Go. Partly because I think Go is better for network-heavy apps. Partly because I want to become more familiar with it. Partly because it will help me get a job. Three noble reasons to switch to Go! 
+
 
