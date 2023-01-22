@@ -10,13 +10,17 @@ const { frontmatter } = Astro.props;
     <p>{frontmatter.pubDate.slice(0, 10)}</p>
     {
       frontmatter.image.url && (
-        <div class='p-10'></div>
-        <img
-          class="object-center m-auto"
-          src={frontmatter.image.url}
-          alt={frontmatter.image.alt}
-        />
-        <div class='p-5'></div>
+        <article class="prose m-auto">
+          <div class="p-5" />
+          <figure>
+            <img
+              class="object-center m-auto"
+              src={frontmatter.image.url}
+              alt={frontmatter.image.alt}
+            />
+            <figcaption>{frontmatter.image.alt}</figcaption>
+          </figure>
+        </article>
       )
     }
   </div>
