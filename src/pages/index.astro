@@ -5,11 +5,11 @@ import Footer from "../components/Footer.astro";
 ---
 
 <BaseLayout pageTitle="Will Gleason">
-  <Footer />
   <article
     class="text-justify m-auto prose prose-lg p-4 lg:prose-lg xl:prose-2xl"
   >
-    I'm a 2021 Carleton College graduate and French history major. I believe the humanities need better software. In this spirit, I maintain the <a
+    I'm a 2021 Carleton College graduate and French history major. I believe the
+    humanities need better software. In this spirit, I maintain the <a
       target="_blank"
       href="https://www.gallicagrapher.com/">Gallica Grapher</a
     >, a tool that plots word occurrences in 19th-century French newspapers. I
@@ -24,146 +24,14 @@ import Footer from "../components/Footer.astro";
       target="_blank"
       href="https://github.com/gleasonw/bppb/blob/main/api/api.go">Go</a
     >, my user interfaces in React and Typescript. I've been using Postgres to
-    persist my data, sometimes Redis for simple messaging. I have tried GraphQL for API data validation, but I think
-    it's excessive for my needs. Instead, I'm experimenting with tRPC and
-    Python's marvelous FastAPI. Tailwind is my css framework of choice. For
-    static projects, such as this website, Astro.js has become my favorite tool.
+    persist my data, sometimes Redis for simple messaging. I have tried GraphQL
+    for API data validation, but I think it's excessive for my needs. Instead,
+    I'm experimenting with tRPC and Python's marvelous FastAPI. Tailwind is my
+    css framework of choice. For static projects, such as this website, Astro.js
+    has become my favorite tool.
     <br />
     <br />
     One developer, whom I appreciate, lists only an apple cider recipe on their website.
     Because I need a job, I will not do that. One day, perhaps. For now, I code.
-    <br />
-    <br />
-    The story so far...
-    <br />
-    <br />
-    <TimeStamp
-      date="June 2021"
-      title="Graduated from Carleton College"
-      commit="works pretty well"
-      url="https://github.com/gleasonw/gallica-grapher/commit/360b762a9989d826e76ae17214be1aef6bac44e6"
-    >
-      <ul>
-        <li>
-          My senior thesis, on 19th-century French media, colonization in the
-          Congo, and a Senegalese man named Malamine Camara, won an <a
-            target="_blank"
-            href="https://www.carleton.edu/africana-studies/scholarships/williams-harris/"
-            >award</a
-          >.
-        </li>
-        <li>
-          The project relied heavily on the French National Library's digital
-          press archive, Gallica.
-        </li>
-        <li>
-          I cobbled together some visualizations of word usage in French
-          periodicals with Python and R's ggplot library.
-        </li>
-        <li>
-          The Gallica API was so vast and interesting, though, that I wanted to
-          make it more accessible. Dreams of a user-friendly web app came to
-          mind...
-        </li>
-      </ul>
-    </TimeStamp>
-    <TimeStamp
-      date="September 2021"
-      title="Teaching in a small French town"
-      commit="fixed threading bug"
-      url="https://github.com/gleasonw/gallica-grapher/commit/738a905882ba50d0c2621f60b1a89de67e8a6462"
-    >
-      <ul>
-        <li>
-          I taught English to middle schoolers and high schoolers. In my spare
-          time, I developed the Python backend of the Gallica Grapher.
-        </li>
-        <li>
-          Adventures in multithreading ensued. The Gallica API limited requests
-          to 50 records, so large requests took a long time.
-        </li>
-        <li>
-          To make the waiting more bearable, I implemented a progress tracking
-          thread that pinged progress updates from a Celery worker in charge of
-          the fetching.
-        </li>
-        <li>
-          The stub of a website was taking shape. I was working with JQuery,
-          though, and state management was difficult. Progress on the UI was
-          slow -- I did manage to get a search bar working for the 14,000
-          periodicals Gallica has archived.
-        </li>
-      </ul>
-    </TimeStamp>
-    <TimeStamp
-      date="March 2022"
-      title="Graphing libraries and the end of the Python-R Union"
-      commit="Ahem...lots of changes"
-      url="https://github.com/gleasonw/gallica-grapher/commit/40354417a7f9c25569024a9723c23813c87424a1"
-    >
-      <ul>
-        <li>
-          The Python library that allowed me to run R code, rpy2, was slow to
-          start up. I believe the Python-R link was designed for an academic
-          audience, not a production one. Not wanting to abandon Python, I
-          decided to migrate away from R for my data transformations.
-        </li>
-        <li>
-          I experimented with Numpy and Pandas, but they felt like unfamiliar
-          versions of SQL. Since my transformations weren't complicated, I
-          decided to transform everything in Postgres. Average window and
-          smoothing were straightforward to implement.
-        </li>
-        <li>
-          Without ggplot, I needed a graphing library. I tried Plotly for a
-          while, but it felt unwieldy. Using inspect element, I noticed that
-          Lichess.com, a chess website I occasionally frequent, uses
-          Highcharts.js to render their elo graphs. It worked very well!
-        </li>
-      </ul>
-    </TimeStamp>
-    <TimeStamp
-      date="May 2022"
-      title="The Return, and React"
-      commit="Static react page"
-      url="https://github.com/gleasonw/gallica-grapher/commit/d609b4baa6ce552207b141d86a3ba77e749ed414"
-    >
-      <ul>
-        <li>
-          Back from France, I decided to continue developing the web app. I
-          hoped to make exploring the Gallica archive as easy as possible. The
-          digital humanities field has not yet caught up the UX standards of the
-          rest of the web.
-        </li>
-        <li>
-          JQuery being a consistent pain, I began reading the React docs, and
-          spun up a static app with CRA. It was a thrilling moment when I
-          realized I could change state and the UI would update for me. I began
-          to experiment more freely, knowing that I wouldn't have to spend an
-          hour wrangling DOM selectors with every significant change.
-        </li>
-      </ul>
-    </TimeStamp>
-    <TimeStamp
-      date="June 2022"
-      title="Unit tests; the craft"
-      commit="tests on a plane"
-      url="https://github.com/gleasonw/gallica-grapher/commit/3b47ddf35483bc631790cb54cdfaa1639733c063"
-      >
-      <ul>
-        <li>
-          The app was working, in full interactive glory. Questions answered, left and right; never again would
-          humanity be unaware of how many times "vin" appeared in the 1894 editions of the 
-          Poitou medical journal. 12, at least once in every edition. 
-        </li>
-        <li>
-          Wanting to be professional, I decided to implement a testing suite, which I had been reading about.
-          I began testing zealously, thoroughly. Every function and class. It was a useful experience, but needlessly effortful,
-          as I now realize. My tests broke for silly reasons (typos, imports) whenever I changed something. Fragile tests!
-          I place my tests wisely now, at higher levels of abstraction.
-        </li>
-      </ul>
-    </TimeStamp>
-
   </article>
 </BaseLayout>
