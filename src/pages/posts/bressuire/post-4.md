@@ -1,13 +1,10 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: Resurfacing
-author: Astro Learner
-description: "I had some challenges, but asking in the community really helped!"
 image: 
     url: "/bressuire_windy_road.jpg"
-    alt: "The word community with a heart."
+    alt: "A windy road in Bressuire"
 pubDate: 2022-02-18
-tags: ["astro", "learning in public", "setbacks", "community"]
 ---
 
  Oh my, oh my, oh my! I have let the grass grow long, the beard, longer still. I remain alive, and well, and full of anecdotes and thoughts of my time here in France. My inability to manage multiple time pressures also remains. Lo, the past few months have brought many new time pressures. A running club, three Dungeons and Dragons groups (goodness), an unexpected eagerness for cooking, and walking to a distant bulk organic store to buy cheap oatmeal.<sup>1</sup> Now that I have thrown my excuses at your feet, they aren't that impressive, maybe, and you have every reason to be displeased at my tardiness. Why don't you find another TAPIF blog, huh?<sup>2</sup>

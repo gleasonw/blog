@@ -1,20 +1,22 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: Reflections, Wrappers
-pubDate: 2/12/23
+title: Open Source Excitement, More React Query
+pubDate: 1/29/23
 image:
-  url: /sevlang.jpg
-  alt: The first read in a book club hosted on Twitch. 
+  url: /inf_query.png
+  alt: The lovely useInfiniteQuery API powering the new, paginated context results.
 ---
 
-I am twice-late! Alas. I spent these past two weeks improving UX on the Gallica Grapher. I added a zoom feature to the graph, and made multi-term graphing more apparent and intuitive, I hope. I could add more features, such as an auto-sampling program to detect popular words in the vicinity of a target word. But each new feature detracts from the core purpose of the app, which is easy, intuitive exploration of archived newspapers. So, I am content. 
+Browsing this week's commit messages, there weren't too many exciting additions. A few user experience improvements, alert if no records for search, but nothing major. I have decided against a major async rewrite of the server code, for now. It would be an interesting experiment, likely nothing more.
 
-A few researchers have expressed interest in the Python integrations I built for the Gallica archive. Anticipating their needs, I have tidied up the code, added type hints to critical functions, added comments, and done my best to ensure the code is maintainable by whoever might follow me. My contribution is straightforward, parsing Gallica's XML into Python objects, but it is time-consuming. I would be overjoyed if my code might help researchers focus their efforts. 
+Cleaning the server code is more important now, especially as the Gallica Grapher moves into a new phase of public responsibility. Working with the [Gallicagram](https://mobile.twitter.com/gallicagram/status/1619016526727897088) team, we hope to integrate the context searching portion of the grapher into Gallicagram as an iframe. The Grapher will become more of a community tool; I want to ensure the code is maintainable by others. In the ideal case, the code is just as complex as the problem it solves, nothing more. My hope is that researchers would contribute to the design of their own tool, together, learning from the practices of open source development teams across the world. I must do a few things to prepare the repository for contributors:
 
-Apart from maintaining the Gallica API wrapper, my foot is off the gas pedal. I am taking time to read and engage with the developer community on Twitch. A book club started this past month, reading Bruce Tate's [Seven Languages in Seven Weeks](https://www.brucetate.com/sevenlanguages/). It is project-based, which follows my philosophy of programming pedagogy: build things. I knew nothing of web applications when I started the Gallica Grapher this summer. I knew, however, that the Gallica archive is an amazing resource, and I desperately wanted more people to access it. React, and Javascript more broadly, became tools, not abstract topics to be studied. Even now, having built a non-trivial React application, I would say I know only 40% of the React API surface. I know the parts that let me build what I want. Theo, the former Twitch developer, speaks clearly on the [subject of developer goals](https://www.youtube.com/watch?v=rzwaaWH0ksk). 
+- Expand the test suite to critical abstractions
+- Implement a CI system that runs the test suite on commits to main
+- Clean the architecture of the code, add documentation
+- Add type hints to critical areas of the Python code
+- Write guidelines for contributing
 
-The joy of programming comes from seeing lines of code lurch to life. The horror of programming is solving Leet Code problems for hours on end. I fell into the Leet Code trap early in my journey. Leet Code is devoid of substance, it is soul-crushing. When I switched my focus to the Gallica Grapher, my confidence grew substantially. Neither Leet Code solutions, nor interviews, nor job offers, measured my worth as a programmer. My projects measured my worth, and I had exact control over my projects. The Gallica Grapher is my coding garden, to steal a [metaphor](https://coding.garden/). It started barren, I tended to it, it is now an impressive oasis. What I learned from building the Gallica Grapher allowed me to speak eloquently of technical problems, and likely got me a job. 
+Finishing these items will be the task of the coming week. I am also getting some tracemalloc errors when testing portions of my fetching code. An unclosed resource somewhere in my Python code. Much to do!
 
-So, to learn to code, find your garden, your problem space, and tend to it. Seek community. Twitch and Youtube have been excellent sources. There, I was not an aspiring developer but a fellow developer. Confidence!
-
-That is all. An excellent week to you, reader. 
+Indeed, I'm late partly because I was puzzling over pagination, working on the new [context viewer](https://www.gallicagrapher.com/context?terms=carotte). React Query's useInfiniteQuery made the task easier. I am still learning what makes a good API; I think useInfiniteQuery is general enough to be widely useful. My use case was greatly complicated by allowing the user to skip pages. I had to manage the cache, control the boundary, and so on. Hopefully, I solved the core complexity, without adding frivolous complexity. The eternal challenge of software design: managing complexity. Check out the viewer, let me know if it breaks!

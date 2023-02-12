@@ -7,8 +7,8 @@ const allPosts = await Astro.glob("../pages/posts/engineering/*.md");
 
 <BaseLayout pageTitle={"News from the Workshop"}>
     <TextBody>
-        Man stumbles his way across a vast technical landscape. I  will
-        try to update this every Saturday. 
+        During the job search, I have been integrating the French National Archives API into a modern React application. The goal is to improve UX for researchers.
+        I have recently started collaborating with the <a class="underline" href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a> team. 
         <PostNavigator posts={allPosts} />
     </TextBody>
 </BaseLayout>
