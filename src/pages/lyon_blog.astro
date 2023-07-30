@@ -1,0 +1,13 @@
+---
+import PostNavigator from "../components/PostNavigator.astro";
+import TextBody from "../components/TextBody.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+const allPosts = await Astro.glob("../pages/posts/lyon/*.md");
+---
+
+<BaseLayout pageTitle={"Will's Writs from Bressuire"}>
+  <TextBody>
+    A few dispatches from an unexpected tour in Lyon, France. What an adventure it has been!
+    <PostNavigator posts={allPosts} />
+  </TextBody>
+</BaseLayout>
