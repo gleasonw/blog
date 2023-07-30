@@ -5,10 +5,9 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 const allPosts = await Astro.glob("../pages/posts/lyon/*.md");
 ---
 
-<BaseLayout pageTitle={"Will in Lyon"}>
+<BaseLayout pageTitle={"Lyon Posting"}>
   <TextBody>
-    Following many lines of code and a bit of luck, I find myself in Lyon, France, for a new job. 
-    I will document my thoughts here, as they float in. My tentative goal is every Saturday.  
+    Words from an unexpected tour in Lyon, France.
     <PostNavigator posts={allPosts} />
   </TextBody>
 </BaseLayout>

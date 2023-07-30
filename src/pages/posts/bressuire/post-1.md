@@ -5,7 +5,6 @@ pubDate: 2021-10-26
 image:
     url: '/bressuire_country.png' 
     alt: 'A trail in the Bressuire countryside.'
-tags: ["astro", "blogging", "learning in public"]
 ---
 
  Greetings, all, from this delightful new web-space I have found. I am still working on the decor -- I draw inspiration from old-school, practical, static websites, and spearmint. Let there be green borders and html tables. I think it beats WordPress; I think this delicious bowl of home-made yogurt I'm eating beats Yoplait. In both cases, doing it yourself is much easier than it appears. Already, a bit of wisdom for you, and we haven't even really begun. Best of all, Papa Bezos is letting me have the site for free (for now). He is... like a man that gives home-made yogurt to the ignorant masses. May his starcraft be swift and his cruise ships gargantuan.<sup>1</sup>

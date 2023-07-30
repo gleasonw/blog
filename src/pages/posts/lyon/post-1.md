@@ -1,10 +1,24 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: News from the Hill
-pubDate: 2023-05-06
+pubDate: 2023-07-30
 image:
   url: "/lyon_river.jpg"
   alt: "A riverside quai in Lyon, France"
 ---
 
-Hello
+I received an email from my Grandma this past week, lamenting the blog's absence, and moving me to action. Family is all we have, like our organs, if we're lucky. It has been a while since I have written freely, so forgive me as I run my scales a bit. Freewheeling medley, so on and such as.
+
+Lyon is a wonderful city. The hill of Fourvière, where I live, 200 meters from the Basilica, is stately, well-frequented, and surreal. A man plays an accordion in front the of cable car stop most mornings. The markets had cherries last month, apricots a couple weeks ago, now cucumbers and tomatoes. The bakery nearby sells crackling chocolate croissants and baguettes with a crust like thin glass, poky, sometimes. The cheese is dank, salty, sweet, or tart, and always abundant. The quais along the river smell the most underneath the bridges. There are 500 feet as the worm tunnels between me and the river. The houses are shades of ripe peach, a description I stole from the comments section of a <a href="https://www.youtube.com/watch?v=nM2lwb0SjuE" target="_blank">Rick Steves video</a>.
+
+Work has been deeply satisfying, a thrilling challenge, but I'm laid off, since the company went bankrupt a few months after I arrived. The future is unclear. I will be staying another three months, tops. I'm doing well. I was lucky to come here in the first place. The most annoying part will be the bureaucratic bits, closing the electric bill, and such. In truth, I have no idea if I will stay in France or return to the States. I like Lyon, but I love my family, the Pacific Northwest, and the ability to communicate freely, without trying to parse the translation of "awkward" into French. _Gené_, maybe?
+
+My near-fluency in French has made acculturation smooth, I feel connected to the Francophone people around me. However, it is a _near_ fluency. My accent is impressive, but my comprehension and vocabulary is nowhere near native-level. My voice creates a facade of French mastery. The gap in expectation creates awkwardness. Often, I will be talking back-and-forth with a Francophone, until I miss a crucial word or sentence which throws me off the conversation bus. A few miles later, the bus will stop, realizing I am no longer on board. There are usually some confused looks, a bit of silence, as I come huffing and puffing back up the street, trying to get caught up. Naught to do but practice, chuckle, and pay my taxes.
+
+I have joined a couple of clubs in Lyon. The first, a chess club, because it was hard to miss, easy to join, and I enjoy the pursuit of chess. Learning openings, trying things, the good stress of a match, the humbling of defeat, the elation of victory, the _swish-clink_ of trading pieces over the board, it's a wholesome brew. The club has tournaments every Saturday, and is generally open for drop-in play. It's a great spot for conversation. The tournaments are frequently dramatic. Disputes arise, the arbiter makes decrees, tears fall, a board was flipped. Chess! I take it less seriously than most in the playing hall. Largely because I am not there to gain rating points, but to chat with people.
+
+Still, I have decided I need to learn more chess theory. A few weeks ago, I faced a skilled player (his rapid elo is 1500, mine is ~1100, around average). I had the white pieces and tried the <a href="https://en.wikipedia.org/wiki/Danish_Gambit" target="_blank">Danish gambit</a> against him, which I knew was risky for white but created lots of chances, an open game. I stumbled into a good position, then made a few mistakes, and he beat me. We had a rematch last week. I tried the Danish again, but this time he swept me off the board. After the game, we reviewed the opening, and realized I didn't know much theory about the Danish. He was disappointed! He said Chess is most enjoyable when you begin following a well-trod path, opening theory millions have played before you. Eventually, locked in struggle, the game plunges into the deep, dark, forest of positional play, tactics, and complications. I agreed with him! I have neglected theory, and centuries of my chess ancestors. I am now reviewing a few lines: for white, the 4 Knight Scotch, the Alapin, and the Fantasy Variation, for black, the Caro-Kann, the Nimzo-Indian, the Hyperdragon. Don't the names fill you with wonder? I would recommend Gotham Chess on Youtube, if you're curious.
+
+I am also running with a club I found over Facebook. The first meeting was the closest my life has come to spy cinema, where the camera cuts to people loitering around the park, asking: who is the imposter? Except, of course, I just had to find the small cluster of runners, and it had very little to do with spy cinema, it was just the vibe. Running is an excellent way to explore the city. The people I run with also know many more routes than I do. It is lovely!
+
+There is but crumbs now in the anecdote basket; I will leave you here. Until, perhaps, next week!
