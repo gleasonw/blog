@@ -1,7 +1,5 @@
 ---
-const {url} = Astro.props
+const {url, text} = Astro.props
 ---
 
-<a target="_blank" href={url}>
-  <slot/>
-</a>
+<a target="_blank" href={url}><slot/></a>
