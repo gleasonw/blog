@@ -28,19 +28,19 @@ To which I respond, in order: I like small towns, none that you would know of, n
 The countryside surrounding Bressuire is magnificent, and I have had many opportunities to explore on long runs. Here are a few images.
 
 <figure>
-    <img src="/bressuire_field.jpg"/>
+    <img src="../images/bressuire_field.jpg"/>
     <figcaption> A farmland scene in Bressuire.</figcaption>
 </figure>
 <figure>
-    <img src="/bressuire_moulin.jpg"/>
+    <img src="../images/bressuire_moulin.jpg"/>
     <figcaption>The ruins of a water mill.</figcaption>
 </figure>
 <figure>
-    <img src="/bressuire_cow.jpg"/>
+    <img src="../images/bressuire_cow.jpg"/>
     <figcaption>A curious cow. I am frequently mooed at.</figcaption>
 </figure>
 <figure>
-    <img src="/bressuire_town.jpg"/>
+    <img src="../images/bressuire_town.jpg"/>
     <figcaption>The town of Bressuire, the castle ruins are visible.</figcaption>
 </figure>
 
