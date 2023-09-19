@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 
 export async function GET({ params, request }: any) {
   try {
-    const pdfData = await fs.readFile("../../public/culture_article.pdf");
+    const pdfData = await fs.readFile("src/culture_article.pdf");
     const headers = {
       "Content-Type": "application/pdf",
       "Content-Length": pdfData.length.toString(),
