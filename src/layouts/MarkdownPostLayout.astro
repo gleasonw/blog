@@ -1,4 +1,19 @@
 ---
+interface Props {
+  frontmatter: {
+    pubDate: string;
+    title: string;
+    image: {
+      url: string; 
+      alt: string;
+    }
+    footnotes: {
+      text: string;
+      tag: string;
+    }[]
+  }
+}
+import type { StringValidation } from "astro/zod";
 import BaseLayout from "./BaseLayout.astro";
 const { frontmatter } = Astro.props;
 ---

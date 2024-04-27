@@ -10,14 +10,20 @@ const { posts } = Astro.props;
 <div class='mt-20 flex flex-col gap-10'>
   {
     posts.slice(0).reverse().map((post) => (
-      <uL class="shadow border border-green-100 hover:bg-gray-100 transition-all m-2">
-        <li>
+      <uL class="shadow border  hover:bg-gray-100 transition-all m-2">
           <a class="flex flex-col p-5" href={post.url}>
+        <li class="flex gap-2 items-center justify-between">
+          <span class="flex flex-col" >
             {" "}
             <span>{post.frontmatter.title}</span>
             <span>{post.frontmatter.pubDate.slice(0, 10)}</span>
-          </a>
+          </span> 
+          {
+            post.frontmatter.image.url &&
+          <img class="w-20 h-20 mr-5" src={post.frontmatter.image.url} alt={post.frontmatter.image.alt} />
+          }
         </li>
+          </a>
       </uL>
     ))
   }

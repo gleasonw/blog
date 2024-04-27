@@ -2,7 +2,7 @@
 import PostNavigator from "../components/PostNavigator.astro";
 import TextBody from "../components/TextBody.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
-const allPosts = await Astro.glob("../pages/posts/lyon/*.md");
+const allPosts = await Astro.glob("../pages/posts/lyon/*.{md,mdx}");
 ---
 
 <BaseLayout pageTitle={"Lyon Posting"}>
